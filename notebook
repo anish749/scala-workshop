@@ -1,0 +1,2 @@
+docker run -v $(pwd):$(pwd) -w $(pwd) -p 8888:8888 almondsh/almond:latest
+
